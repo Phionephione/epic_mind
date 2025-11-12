@@ -1,0 +1,4 @@
+Bug ID,Description,Status,Priority
+1,"On mobile view, the sidebar toggle button is sometimes misaligned.",Open,Medium
+2,"Long code snippets in chat messages can overflow their container.",Open,Low
+3,"Login error message is not specific enough (e.g., 'Invalid credentials' for both wrong user/pass).",In Progress,Medium

@@ -1,0 +1,14 @@
+Feature,User Story,Status
+Authentication,"As a new user, I want to register for an account so I can use the app.",Done
+Authentication,"As an existing user, I want to log in to my account to access my conversations.",Done
+Authentication,"As a logged-in user, I want the app to remember me on my next visit.",Done
+Authentication,"As a logged-in user, I want to be able to log out.",Done
+Chat Interface,"As a user, I want to see a welcome message when I open a new chat.",Done
+Chat Interface,"As a user, I want to type a message in an input box and send it by pressing a button or Enter.",Done
+Chat Interface,"As a user, I want to see my message and the AI's response displayed in the chat window.",Done
+Chat Interface,"As a user, I want to see a loading indicator while the AI is generating a response.",Done
+Theming,"As a user, I want to switch between a light and dark theme to suit my preference.",Done
+Sidebar,"As a user, I want to see a history of my previous conversations.",Done
+Sidebar,"As a user, I want to search my chat history.",Done
+Sidebar,"As a user, I want to pin important chats to the top of my history.",Done
+Responsiveness,"As a user on a mobile device, I want the layout to adapt to my smaller screen.",Done

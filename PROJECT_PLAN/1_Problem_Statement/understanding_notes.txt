@@ -1,0 +1,14 @@
+# Project Aura: Problem Statement Understanding
+
+## 1. Problem
+Users need an intelligent, responsive, and customizable chat interface for interacting with an AI model. Existing solutions lack personalization and a modern, clean user experience.
+
+## 2. Use Cases
+- User asks for information on a topic.
+- User wants to brainstorm ideas.
+- User needs help with writing or coding.
+- User customizes the interface theme (light/dark).
+- User views and searches past conversations.
+
+## 3. Overall Project Goal
+To create "Aura," a sleek, modern, and highly configurable chat application that provides a superior user experience for interacting with a generative AI. Key features include a dynamic theme, chat history management, and a clean, intuitive interface.

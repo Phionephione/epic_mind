@@ -1,0 +1,26 @@
+# Project Aura: Execution Plan
+
+## 1. End-to-End Proposed Plan
+- **Phase 1: Foundation & UI/UX.**
+  - Set up a React + TypeScript project.
+  - Design the core UI components: Sidebar, Chat Window, Input Area.
+  - Implement a dynamic theming system (light/dark) configurable via a central object.
+  - Ensure a fully responsive design for mobile and desktop.
+- **Phase 2: Core Functionality.**
+  - Integrate with a generative AI API for chat responses.
+  - Implement the main chat logic: sending messages, displaying conversation history, and handling loading states.
+- **Phase 3: Features.**
+  - Add a mock chat history with search and pin functionality in the sidebar.
+  - Implement a mock user authentication system using localStorage for session persistence.
+- **Phase 4: Refinement & Testing.**
+  - Conduct thorough testing of all components and features.
+  - Debug and resolve any identified issues.
+  - Prepare for deployment.
+
+## 2. Tools, Frameworks, & Tech Stack
+- **Frontend Framework:** React
+- **Language:** TypeScript
+- **Styling:** CSS-in-JS (React Style Objects) and global CSS for advanced selectors.
+- **API:** @google/genai
+- **Build Tool:** Using the provided web environment's bundler.
+- **State Management:** React Hooks (`useState`, `useEffect`, `useRef`).
